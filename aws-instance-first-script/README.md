@@ -4,7 +4,7 @@
 
 A Terraform module for creating AWS EC2 instance.
 
-## Usage exm
+## Usage 
 
 ```hcl
 module "ec2_instance" {
